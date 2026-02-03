@@ -2,7 +2,7 @@
 
 A futuristic, neon-infused Tetris game with brutal arcade-style gameplay, featuring cyberpunk aesthetics, smooth animations, and a hardcore speed progression system.
 
-![Version](https://img.shields.io/badge/version-2.0-ff00ff)
+![Version](https://img.shields.io/badge/version-3.0-ff00ff)
 ![Python](https://img.shields.io/badge/python-3.8+-00ffff)
 ![License](https://img.shields.io/badge/license-MIT-00ff00)
 
@@ -227,7 +227,7 @@ MacanTetrisNeoArcade/
 
 ## 📜 Copyright & License
 
-**© 2025 MACAN ANGKASA**
+**© 2026 MACAN ANGKASA**
 
 This project is released under the MIT License.
 
